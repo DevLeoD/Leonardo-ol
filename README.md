@@ -7,6 +7,4 @@ currently.
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leonardo-ol/)](https://github.com/Leonardo-ol/)
 
-![example event parameter](https://github.com/actions/hello-world/workflows/Greet%20Everyone/badge.svg?event=pull_request)
-
 - Thanks for visiting.  
