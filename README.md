@@ -1,4 +1,4 @@
 Hello, stranger 👋 I am Leonardo, also known as zSwert_, and I make plugins for bukkit servers 
 currently I am 13 years old and programming Java Bukkit for 2 years.
 
-<img src="https://img.shields.io/static/v1?label=Java&message=Bukkit&color=7159c1&style=for-the-badge&logo=java"/>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Leonardo-ol/Leonardo-ol/)
