@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 My name is Leonardo, also known as zSwert_, and I make plugins for bukkit servers.
- Currently, i am 13 years old and programming Java for 2 years.
+ Currently, i am 14 years old and programming Java for 2 years.
 
 ## Social Medias
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leonardo-ol&show_icons=true&theme=dark) 
