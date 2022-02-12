@@ -11,6 +11,6 @@ My name is Leonardo, also known as zSwert_, and I make plugins for bukkit server
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leonardo-ol&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-ol&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/Leonardo-Ol/README/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Leonardo-Ol/README.md/blob/output/github-contribution-grid-snake.svg)
 
 - Thanks for visiting.  
