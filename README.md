@@ -4,8 +4,7 @@
 
 ## Hi there 👋
 
-My name is Leonardo, also known as zSwert_, and I make plugins for bukkit servers.
- Currently, i am 14 years old and programming Java for 3 years.
+My name is Leonardo, i am 14 years old.
 
 
 ![snake gif](https://github.com/Leonardo-ol/Leonardo-ol/blob/output/github-contribution-grid-snake.svg)  
