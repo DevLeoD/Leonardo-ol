@@ -8,9 +8,6 @@ My name is Leonardo, also known as zSwert_, and I make plugins for bukkit server
  Currently, i am 14 years old and programming Java for 3 years.
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-ol&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-
 ![snake gif](https://github.com/Leonardo-ol/Leonardo-ol/blob/output/github-contribution-grid-snake.svg)  
 
 
