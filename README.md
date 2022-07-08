@@ -1,6 +1,5 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leonardo-ol/)](https://github.com/Leonardo-ol/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/channel/UCtnSTkS-W7LZuoZ4-g0iiHw)](https://youtube.com/channel/UCtnSTkS-W7LZuoZ4-g0iiHw)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https:https://www.facebook.com/Leonardo.Oliveira45353)](https://www.facebook.com/Leonardo.Oliveira45353)
 
 ## Hi there 👋
 
