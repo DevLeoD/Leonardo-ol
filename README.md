@@ -5,6 +5,9 @@
 
 My name is Leonardo, i am 15 years old.
 
+## Tools and Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
 ![snake gif](https://github.com/Leonardo-ol/Leonardo-ol/blob/output/github-contribution-grid-snake.svg)  
 
